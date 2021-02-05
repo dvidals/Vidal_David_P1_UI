@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Because the window insets on round devices are larger than 15dp, this padding only applies
+    to square screens.
+    -->
+    <dimen name="box_inset_layout_padding">0dp</dimen>
+
+    <!--
+    This padding applies to both square and round screens. The total padding between the buttons
+    and the window insets is box_inset_layout_padding (above variable) on square screens and
+    inner_frame_layout_padding (below variable) on round screens.
+    -->
+    <dimen name="inner_frame_layout_padding">5dp</dimen>
+    <dimen name="margen_boton">6dp</dimen>
+    <dimen name="uno">1</dimen>
+    <dimen name="dos">2</dimen>
+    <dimen name="tres">3</dimen>
+    <dimen name="cuatro">4</dimen>
+    <dimen name="cinco">5</dimen>
+    <dimen name="seis">6</dimen>
+    <dimen name="siete">7</dimen>
+    <dimen name="ocho">8</dimen>
+    <dimen name="nueve">9</dimen>
+    <dimen name="diez">10</dimen>
+    <dimen name="once">11</dimen>
+    <dimen name="doce">12</dimen>
+    <dimen name="catorce">14</dimen>
+    <dimen name="weightSum">16</dimen>
+    <dimen name="mitad_alto">341.5dp</dimen>
+    <dimen name="normal">20dp</dimen>
+    <dimen name="normalmg">25dp</dimen>
+    <dimen name="corta">5dp</dimen>
+    <dimen name="top_normal">28dp</dimen>
+    <dimen name="height_normal">50dp</dimen>
+    <dimen name="height_ancho">70dp</dimen>
+    <dimen name="width_normal">130dp</dimen>
+    <dimen name="normalg">30dp</dimen>
+    <dimen name="ancha">48dp</dimen>
+    <dimen name="mancha">60dp</dimen>
+    <dimen name="muyancha">80dp</dimen>
+    <dimen name="letra_muy_grande">30sp</dimen>
+    <dimen name="landscape">400dp</dimen>
+    <dimen name="letra_mgrande">25sp</dimen>
+    <dimen name="letra_grande">22dp</dimen>
+    <dimen name="letra_ej9">20sp</dimen>
+    <dimen name="letra_media">16dp</dimen>
+    <dimen name="sep12">12dp</dimen>
+    <dimen name="margen_final">205dp</dimen>
+    <dimen name="margen_principio">30dp</dimen>
+
+</resources>

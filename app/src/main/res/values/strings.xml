@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Vidal_David_P1_EVENTOS</string>
+    <string name="title_activity_ej1">Ej1Activity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="ejercicio9">hola, esto es un comentario largo, largo, largo, muy largo, y escrito en letra mayúscula</string>
+    <string name="Conectar">Conectar</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Olvido">¿Olvidaste tu contraseña?</string>
+    <string name="Login">INICIAR SESIÓN</string>
+    <string name="invalid_password">La contraseña debe tener un mínimo de 8 caracteres</string>
+    <string name="password">Debe introducir una contraseña</string>
+    <string name="user">Debe introducir un nombre de usuario</string>
+    <string name="forgot_password">Has olvidado tu contraseña. Accede a tu e-mail, se te han enviado las instrucciones.</string>
+    <string name="contador">\"Has pulsado \". cont.\" vez.\"</string>
+    <string name="unaPulsacion">Has pulsado +cont+\" vez\"</string>
+    <string name="teclea_tu_nombre">Teclea tu nombre:</string>
+    <string name="nombre">Nombre</string>
+    <string name="sra">Sra.</string>
+    <string name="sr">Sr.</string>
+    <string name="adios">Adiós</string>
+    <string name="hasta_luego">Hasta Luego</string>
+    <string name="despedida">Despedida</string>
+    <string name="Sdespedida">Selecciona una despedida:</string>
+    <string name="errorDespedida">Debe introducir una despedida</string>
+    <string name="errorNombre">Debes teclear un nombre</string>
+    <string name="errorTratamiento">ERROR: Debe elegir un tratamiento</string>
+    <string name="hola">Hola</string>
+    <string name="cambiar">CAMBIAR</string>
+    <string name="valor">Valor</string>
+    <string name="introduce_valor"><b>Introduce valor</b></string>
+    <string name="ptsAEuros">Pts. a Euros</string>
+    <string name="eurosAPts">Euros a Pts.</string>
+    <string name="cambioMoneda"><b>CAMBIO DE MONEDA</b></string>
+    <string name="errorNoConversion">Debes de seleccionar un tipo de conversión.</string>
+    <string name="errorValor">ERROR: Se debe de introducir un valor para poder hacer la conversión.</string>
+    <string name="euros">Euros</string>
+    <string name="pesetas">Pesetas</string>
+    <string name="equivalenciaPts">pesetas equivalen a </string>
+    <string name="equivalenciaEuros"> euros equivalen a </string>
+    <string name="errorValorNoNumero">Debes teclear un valor numérico</string>
+    <string name="titulo1">Contador de clicks</string>
+    <string name="pulsa">PULSA</string>
+    <string name="limpiar">LIMPIAR</string>
+    <string name="title_activity_ej4">Ej4Activity</string>
+    <string name="volver">VOLVER</string>
+
+</resources>

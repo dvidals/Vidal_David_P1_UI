@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Vidal_David_P1_EVENTOS</string>
+    <string name="title_activity_ej1">Ej1Activity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="ejercicio9">hola, esto es un comentario largo, largo, largo, muy largo, y escrito en letra mayúscula</string>
+    <string name="Conectar">Connect</string>
+    <string name="Usuario">User</string>
+    <string name="Contraseña">Password</string>
+    <string name="Login">LOG IN</string>
+    <string name="Olvido">Did you forget your password?</string>
+    <string name="invalid_password">The password must be a minimum of 8 characters</string>
+    <string name="password">You must enter a password</string>
+    <string name="user">You must enter a username</string>
+    <string name="forgot_password">Have you forgotten your password? Access your e-mail, the instructions have been sent to you.</string>
+    <string name="contador">\"You have pressed.\" cont. \"once.\"</string>
+    <string name="unaPulsacion">\"You have pressed.\" cont. \"once.\"</string>
+    <string name="teclea_tu_nombre">Type your name:</string>
+    <string name="nombre">Name</string>
+    <string name="sra">Ms</string>
+    <string name="sr">Sir</string>
+    <string name="adios">Goodbye</string>
+    <string name="hasta_luego">See you later</string>
+    <string name="despedida">Farewell</string>
+    <string name="Sdespedida">Select a farewell</string>
+    <string name="errorNombre">You must type a name</string>
+    <string name="errorTratamiento">ERROR: You must choose a treatment</string>
+    <string name="hola">Hello</string>
+</resources>
